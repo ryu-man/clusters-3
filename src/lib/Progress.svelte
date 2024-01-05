@@ -28,9 +28,9 @@
 			style:width="{$width$ * 100}%"
 		/>
 
-		<div class="text-[21.5px] font-bold max-w-full">{($width$ * 100).toFixed()}<span>%</span></div>
+		<div class="text-large-bold max-w-full">{($width$ * 100).toFixed()}<span>%</span></div>
 
-		<div class="text-lg font-medium opacity-50 hidden">complete</div>
+		<div class="text-large font-medium opacity-50 hidden">complete</div>
 	</div>
 </div>
 

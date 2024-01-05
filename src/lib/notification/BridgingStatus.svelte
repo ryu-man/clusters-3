@@ -4,7 +4,7 @@
 	export let name: string;
 </script>
 
-<div class="bridging-status flex flex-col gap-[18px] md:flex-row md:items-center">
+<div class="bridging-status flex flex-col gap-4 md:flex-row md:items-center">
 	<div class="flex items-center gap-[18px] flex-1">
 		<div
 			class="min-w-16 min-h-16 flex justify-center items-center bg-neutral-200 dark:bg-neutral-700 rounded-full"
@@ -39,7 +39,7 @@
 	</div>
 
 	<a
-		class="flex items-center justify-center gap-1.5 border border-neutral-300 dark:border-neutral-600 px-4 py-3 rounded-lg dark:bg-neutral-700 w-full md:w-fit"
+		class="flex items-center justify-center gap-1.5 border border-neutral-300 dark:border-neutral-600 p-[10px] rounded-lg dark:bg-neutral-700 w-full md:w-fit text-base-bold"
 		href="/"
 		target="_blank"
 	>

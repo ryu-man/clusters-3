@@ -4,7 +4,7 @@
 	export let name: string;
 </script>
 
-<div class="bridging-status flex gap-[18px] flex-col md:flex-row md:items-center">
+<div class="bridging-status flex gap-4 flex-col md:flex-row md:items-center">
 	<div class="flex items-center gap-[18px] flex-1">
 		<Progress value={0.89} />
 
@@ -17,7 +17,7 @@
 	</div>
 
 	<a
-		class="flex font-bold items-center justify-center gap-1.5 px-4 py-3 rounded-lg whitespace-nowrap bg-[#627EEA] text-white w-full md:w-fit"
+		class="flex font-bold items-center justify-center gap-1.5 p-[10px] rounded-lg whitespace-nowrap bg-[#627EEA] text-white w-full md:w-fit text-base-bold"
 		href="/profile/{name}"
 	>
 		View cluster
