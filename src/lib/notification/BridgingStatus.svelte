@@ -44,6 +44,6 @@
 		target="_blank"
 	>
 		<span>Transaction</span>
-		<span class="text-xl"><ExternalIcon /></span>
+		<span class="text-xl opacity-50"><ExternalIcon /></span>
 	</a>
 </div>
