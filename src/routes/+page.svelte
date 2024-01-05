@@ -3,5 +3,5 @@
 </script>
 
 <div class="p-10">
-	<Notification status="bridging" name="ryeshrimp" address="0x0000" />
+	<Notification status="video" name="ryeshrimp" address="0x0000" />
 </div>

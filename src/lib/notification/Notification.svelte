@@ -6,7 +6,7 @@
 </script>
 
 <div
-	class="notification font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-900 dark:text-white p-5 border border-neutral-300 dark:border-neutral-600 rounded-[14px]"
+	class="notification font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-900 dark:text-white pl-5 py-4 pr-7 border border-neutral-300 dark:border-neutral-600 rounded-[14px]"
 >
 	{#if status === 'bridging'}
 		<!-- Bridging status -->
