@@ -30,7 +30,7 @@
 
 		<div class="flex flex-col flex-1 gap-1">
 			<div class="text-large-bold">Creating your cluster</div>
-			<p class="font-medium">
+			<p class="text-base">
 				<span class="opacity-50">Your cluster, </span><span class="opacity-100 text-base"
 					>{name}/</span
 				><span class="opacity-50">, will be ready soon.</span>
